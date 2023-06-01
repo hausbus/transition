@@ -1,0 +1,159 @@
+{
+  "common": {
+    "name": "hausbusde",
+    "version": "1.2.11",
+    "news": {
+      "1.2.11": {
+        "en": "updated latest iobroker catalog version",
+        "de": "aktuelle iobroker katalogversion",
+        "ru": "обновлена последняя версия каталога iobroker",
+        "pt": "atualização mais recente versão do catálogo iobroker",
+        "nl": "vertaling:",
+        "fr": "mise à jour la dernière version du catalogue iobroker",
+        "it": "versione aggiornata del catalogo iobroker",
+        "es": "versión actualizada del catálogo iobroker",
+        "pl": "najnowsza wersja katalogowa",
+        "uk": "оновлена версія каталогу iobroker",
+        "zh-cn": "最新版本"
+      },
+      "1.2.10": {
+        "en": "updated node dependencies",
+        "de": "aktualisierte knotenabhängigkeiten",
+        "ru": "обновленные зависимости от узлов",
+        "pt": "dependências de nó atualizadas",
+        "nl": "vertaling:",
+        "fr": "mises à jour des dépendances",
+        "it": "dipendenze aggiornate del nodo",
+        "es": "actualizados",
+        "pl": "zależności węzłów",
+        "uk": "оновлені залежності вузлів",
+        "zh-cn": "二. 最新无受扶养人"
+      },
+      "1.2.9": {
+        "en": "updated latest iobroker catalog version",
+        "de": "aktuelle iobroker katalogversion",
+        "ru": "обновлена последняя версия каталога iobroker",
+        "pt": "atualização mais recente versão do catálogo iobroker",
+        "nl": "vertaling:",
+        "fr": "mise à jour la dernière version du catalogue iobroker",
+        "it": "versione aggiornata del catalogo iobroker",
+        "es": "versión actualizada del catálogo iobroker",
+        "pl": "najnowsza wersja katalogowa",
+        "uk": "оновлена версія каталогу iobroker",
+        "zh-cn": "最新版本"
+      },
+      "1.2.8": {
+        "en": "updated latest iobroker catalog version",
+        "de": "aktuelle iobroker katalogversion",
+        "ru": "обновлена последняя версия каталога iobroker",
+        "pt": "atualização mais recente versão do catálogo iobroker",
+        "nl": "vertaling:",
+        "fr": "mise à jour la dernière version du catalogue iobroker",
+        "it": "versione aggiornata del catalogo iobroker",
+        "es": "versión actualizada del catálogo iobroker",
+        "pl": "najnowsza wersja katalogowa",
+        "uk": "оновлена версія каталогу iobroker",
+        "zh-cn": "最新版本"
+      },
+      "1.2.7": {
+        "en": "updated latest iobroker catalog version",
+        "de": "aktuelle iobroker katalogversion",
+        "ru": "обновлена последняя версия каталога iobroker",
+        "pt": "atualização mais recente versão do catálogo iobroker",
+        "nl": "vertaling:",
+        "fr": "mise à jour la dernière version du catalogue iobroker",
+        "it": "versione aggiornata del catalogo iobroker",
+        "es": "versión actualizada del catálogo iobroker",
+        "pl": "najnowsza wersja katalogowa",
+        "uk": "оновлена версія каталогу iobroker",
+        "zh-cn": "最新版本"
+      },
+      "1.2.6": {
+        "en": "updated latest iobroker catalog version",
+        "de": "aktuelle iobroker katalogversion",
+        "ru": "обновлена последняя версия каталога iobroker",
+        "pt": "atualização mais recente versão do catálogo iobroker",
+        "nl": "vertaling:",
+        "fr": "mise à jour la dernière version du catalogue iobroker",
+        "it": "versione aggiornata del catalogo iobroker",
+        "es": "versión actualizada del catálogo iobroker",
+        "pl": "najnowsza wersja katalogowa",
+        "uk": "оновлена версія каталогу iobroker",
+        "zh-cn": "最新版本"
+      },
+      "1.2.5": {
+        "en": "updated latest iobroker catalog version",
+        "de": "aktuelle iobroker katalogversion",
+        "ru": "обновлена последняя версия каталога iobroker",
+        "pt": "atualização mais recente versão do catálogo iobroker",
+        "nl": "vertaling:",
+        "fr": "mise à jour la dernière version du catalogue iobroker",
+        "it": "versione aggiornata del catalogo iobroker",
+        "es": "versión actualizada del catálogo iobroker",
+        "pl": "najnowsza wersja katalogowa",
+        "uk": "оновлена версія каталогу iobroker",
+        "zh-cn": "最新版本"
+      }
+    },
+    "titleLang": {
+      "en": "Haus-Bus.de",
+      "de": "Haus-Bus.de",
+      "ru": "Haus-Bus.de",
+      "pt": "Haus-Bus.de",
+      "nl": "Haus-Bus.de",
+      "fr": "Haus-Bus.de",
+      "it": "Haus-Bus.de",
+      "es": "Haus-Bus.de",
+      "pl": "Haus-Bus.de",
+      "zh-cn": "豪斯巴士公司"
+    },
+    "desc": {
+      "en": "Adapter to control haus-bus.de components.",
+      "de": "Adapter zur Steuerung von haus-bus.de Komponenten.",
+      "ru": "Адаптер для управления компонентами haus-bus.de.",
+      "pt": "Adaptador para controlar os componentes haus-bus.de.",
+      "nl": "Adapter voor het aansturen van haus-bus.de componenten.",
+      "fr": "Adaptateur pour contrôler les composants haus-bus.de.",
+      "it": "Adattatore per controllare i componenti haus-bus.de.",
+      "es": "Adaptador para controlar los componentes de haus-bus.de.",
+      "pl": "Adapter do sterowania komponentami haus-bus.de.",
+      "zh-cn": "用于控制 haus-bus.de 组件的适配器。"
+    },
+    "authors": [
+      "Hermann Hoeschen <info@haus-bus.de>"
+    ],
+    "keywords": [
+      "haus-bus.de",
+      "homeserver",
+      "relaimodule",
+      "pushbuttons"
+    ],
+    "license": "MIT",
+    "platform": "Javascript/Node.js",
+    "main": "main.js",
+    "icon": "hausbusde.png",
+    "enabled": true,
+    "extIcon": "https://github.com/hausbus/ioBroker.hausbus_de/blob/main/admin/hausbusde.png",
+    "readme": "https://github.com/hausbusde/ioBroker.hausbus_de/blob/main/README.md",
+    "loglevel": "info",
+    "mode": "daemon",
+    "type": "iot-systems",
+    "compact": true,
+    "connectionType": "local",
+    "dataSource": "push",
+    "materialize": true,
+    "dependencies": [
+      {
+        "js-controller": ">=2.0.0"
+      }
+    ],
+    "globalDependencies": [
+      {
+        "admin": ">=5.1.28"
+      }
+    ]
+  },
+  "native": {},
+  "objects": [],
+  "instanceObjects": []
+}
